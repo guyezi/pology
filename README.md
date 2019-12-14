@@ -2,7 +2,7 @@
 <html><head>
 <meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Chapter&nbsp;2.&nbsp;The PO Format</title>
+<title>第2章&nbsp;.&nbsp;PO 格式</title>
 <link rel="stylesheet" type="text/css" href="http://pology.nedohodnik.net/doc/user/en_US/style.css">
 <meta name="generator" content="DocBook XSL Stylesheets V1.78.1">
 <link rel="home" href="http://pology.nedohodnik.net/doc/user/en_US/index.html" title="Pology User Manual">
@@ -14,12 +14,12 @@
 <div class="navheader">
 <table summary="Navigation header" width="100%">
 <tbody><tr>
-<th colspan="3" align="center">Chapter&nbsp;2.&nbsp;The PO Format</th>
+<th colspan="3" align="center">第2章&nbsp;.&nbsp;PO 格式</th>
 </tr>
 <tr>
-<td width="20%" align="left"><a accesskey="p" href="http://pology.nedohodnik.net/doc/user/en_US/ch-about.html">Prev</a>&nbsp;</td>
+<td width="20%" align="left"><a accesskey="p" href="http://pology.nedohodnik.net/doc/user/en_US/ch-about.html">上一页</a>&nbsp;</td>
 <th width="60%" align="center">&nbsp;</th>
-<td width="20%" align="right">&nbsp;<a accesskey="n" href="http://pology.nedohodnik.net/doc/user/en_US/ch-sieve.html">Next</a></td>
+<td width="20%" align="right">&nbsp;<a accesskey="n" href="http://pology.nedohodnik.net/doc/user/en_US/ch-sieve.html">下一页</a></td>
 </tr>
 </tbody></table>
 <hr></div>
@@ -38,10 +38,17 @@ greater detail, it will be presented here as well. This is in order to
 thoroughly explain how the format elements influence the translation 
 practice, and to make sure that the terms used in the rest of this 
 manual are understood in their precise meaning.</p>
+<p>PO格式没有正式的规范；相反，Gettext手册的相关部分作为其工作定义。尽管这个PO格式已经被<a class="ulink" href="http://www.gnu.org/software/gettext/manual/html_node/index.html" target="_top">Gettext手册</a>和其他地方记录下来了，但是在这里也会有详细的介绍。这是为了彻底解释格式元素如何影响翻译实践，并确保本手册其余部分中使用的术语在其准确含义中得到理解。</p>
+ <br />
 <p>Before going into the format description, it is useful to give an 
 overview of usage contexts for the PO format and of the basic principles
  behind it.</p>
+ <p>在进入格式描述之前，概述PO格式的使用上下文及其背后的基本原则是很有用的.</p>
+ <br />
+
 <p><a name="p-dynstattr" id="p-dynstattr"></a>There are three distinct contexts in which PO files are used:</p>
+<p><a name="p-dynstattr" id="p-dynstattr"></a>有三个不同的上下文中使用PO文件:</p>
+<br />
 <div class="itemizedlist">
 <ul class="itemizedlist" style="list-style-type: disc;">
 <li class="listitem">
