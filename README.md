@@ -17,9 +17,9 @@
 <th colspan="3" align="center">第2章&nbsp;.&nbsp;PO 格式</th>
 </tr>
 <tr>
-<td width="20%" align="left"><a accesskey="p" href="http://pology.nedohodnik.net/doc/user/en_US/ch-about.html">上一页</a>&nbsp;</td>
+<td width="20%" align="left"><a accesskey="p" href="http://pology.nedohodnik.net/doc/user/en_US/ch-about.html">上一页</a></td>
 <th width="60%" align="center">&nbsp;</th>
-<td width="20%" align="right">&nbsp;<a accesskey="n" href="http://pology.nedohodnik.net/doc/user/en_US/ch-sieve.html">下一页</a></td>
+<td width="20%" align="right"><a accesskey="n" href="http://pology.nedohodnik.net/doc/user/en_US/ch-sieve.html">下一页</a></td>
 </tr>
 </tbody></table>
 <hr></div>
