@@ -2,7 +2,7 @@
 <html><head>
 <meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>第2章&nbsp;.&nbsp;PO 格式</title>
+<title>### 第2章&nbsp;.&nbsp;PO 格式</title>
 <link rel="stylesheet" type="text/css" href="http://pology.nedohodnik.net/doc/user/en_US/style.css">
 <meta name="generator" content="DocBook XSL Stylesheets V1.78.1">
 <link rel="home" href="http://pology.nedohodnik.net/doc/user/en_US/index.html" title="Pology User Manual">
@@ -18,7 +18,7 @@
 </tr>
 <tr>
 <td width="20%" align="left"><a accesskey="p" href="http://pology.nedohodnik.net/doc/user/en_US/ch-about.html">上一页</a></td>
-<th width="60%" align="center">&nbsp;</th>
+<th width="60%" align="center"></th>
 <td width="20%" align="right"><a accesskey="n" href="http://pology.nedohodnik.net/doc/user/en_US/ch-sieve.html">下一页</a></td>
 </tr>
 </tbody></table>
