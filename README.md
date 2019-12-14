@@ -27,7 +27,7 @@
 <div class="titlepage">
 <div>
 <div>
-<h1 class="title"><a name="ch-poformat" id="ch-poformat"></a>Chapter&nbsp;2.&nbsp;The PO Format</h1>
+<h1 class="title"><a name="ch-poformat" id="ch-poformat"></a>第2章&nbsp;.&nbsp;PO 格式</h1>
 </div>
 </div>
 </div>
